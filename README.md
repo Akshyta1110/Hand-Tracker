@@ -1,4 +1,4 @@
-**HAND TRACKER PROGRAM**
+## HAND TRACKER PROGRAM
 
 # DESCRIPTION:
 The Hand Tracker Program is a computer vision tool designed to detect and follow the movement of a user’s hand in real time using a webcam or video input. It identifies the position of the hand, tracks finger movements, and recognizes basic gestures with high accuracy. 
@@ -48,6 +48,6 @@ After installing kindly import the following libraries:
 
 4. Gaming interactions
 
-**AUTHOR**:
+# AUTHOR:
 AKSHYTA DHIR 
 Git: @Akshyta1110
